@@ -1,4 +1,4 @@
-CUDA_VISIBLE_DEVICES=0 python finetune_cont.py \
+CUDA_VISIBLE_DEVICES=0 python finetune_moleco.py \
         --device cuda \
         --batch_size 128  \
         --n_head 12 \
